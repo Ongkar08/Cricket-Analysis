@@ -24,6 +24,8 @@ The Cricket Data Analytics🏏 project is made on T-20 Cricket World Cup Data. I
 
 ---
 
+
+
 # Screenshots of the Dashboard:
 
 ![power_hitters_and_openers](https://user-images.githubusercontent.com/81465377/211144386-48070a65-7e8b-4370-af44-121b878b554b.jpg)
@@ -41,3 +43,13 @@ The Cricket Data Analytics🏏 project is made on T-20 Cricket World Cup Data. I
 ![fast_bowlers](https://user-images.githubusercontent.com/81465377/211144473-03ca6186-b8e8-419f-87a1-786f6a2d62a6.jpg)
 
 ![pick_final_11](https://user-images.githubusercontent.com/81465377/211144486-4b48e1fc-fab3-4bb0-b660-7b4da5be627d.jpg)
+
+
+---
+## 📖 Storytelling & Insights
+
+- 🏆 **Toss ≠ Win:** Toss-winners won ~55% of games; bowling first has better results.
+- 🔥 **Power Hitters Rule:** SR > 150 significantly increases win probability.
+- 🧤 **Finishers Matter:** Players at positions 6–8 often made match-winning impacts.
+- 🎯 **Bowlers Win Matches:** Games won with >3 wickets & economy < 7.
+- 🏟️ **Venue Bias:** Perth = fast outfield, Hobart = bowler-friendly.
